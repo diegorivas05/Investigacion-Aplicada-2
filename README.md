@@ -5,7 +5,7 @@
 # Sistema CRUD Asíncrono - ReactPHP
 **Materia:** Lenguaje Interpretado en el Cliente  
 **Institución:** Universidad Don Bosco (UDB)  
-**Estudiante:** José Diego Rivas
+
 
 Este proyecto es un servidor web asíncrono de alto rendimiento desarrollado con **ReactPHP**. Implementa el paradigma *Event-Driven* para gestionar múltiples solicitudes simultáneas de forma eficiente y no bloqueante.
 
